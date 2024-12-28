@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View, StyleSheet, ImageBackground } from "react-native";
-import flower from '../';
+import flower from './assets/image/coffee.jpg';
 
 export default function Index() {
   return (
